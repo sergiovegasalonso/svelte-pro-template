@@ -1,7 +1,7 @@
 <script lang="ts">
   import { Router } from "svelte-navigator";
   import Navbar from "@/lib/navbar/Navbar.svelte";
-  import logo from "@/assets/svelte.png";
+  import logo from "@/assets/logo.png";
   import "@/css/global.css";
 </script>
 
